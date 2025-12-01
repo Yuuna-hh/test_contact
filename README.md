@@ -57,4 +57,4 @@
 
 ## ER図
 
-
+<img width="351" height="281" alt="test_contact_ER" src="https://github.com/user-attachments/assets/0f4c1be9-2806-43bb-b883-81e5bdfcbf8b" />
