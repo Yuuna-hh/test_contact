@@ -1,0 +1,41 @@
+.confirm__form {
+    margin: 40px auto;
+    width: 100%;
+    background: #fff;
+    font-size: 15px;
+}
+
+.confirm__table {
+    display: grid;
+    grid-template-columns: 30% 70%;
+    border: 1px solid #f4f4f4;
+}
+
+.confirm__row {
+    display: contents;
+}
+
+.confirm__label {
+    padding: 16px 22px;
+    background: #baa899;
+    color: #fff;
+    font-weight: bold;
+    border-bottom: 1px solid #f4f4f4;
+    border-right: 1px solid #f4f4f4;
+    display: flex;
+    align-items: center;
+}
+
+.confirm__value {
+    padding: 16px 18px;
+    border-bottom: 1px solid #f4f4f4;
+    line-height: 1.6;
+    background: #fff;
+}
+
+.confirm__value--textarea {
+    white-space: pre-wrap;
+    padding: 16px 18px;
+    display: block;
+    align-self: start;
+}

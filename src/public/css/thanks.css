@@ -1,0 +1,32 @@
+.thanks__wrapper {
+    position: relative;
+    min-height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.thanks__bg {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 20vw;
+    max-width: 100%;
+    color: #f4f4f4;
+    z-index: -1;
+    user-select: none;
+    white-space: nowrap;
+    display: inline-block;
+    font-family: 'Libre Bodoni', serif;
+}
+
+.thanks__message {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 40px 0;
+    color: #82746b;
+}

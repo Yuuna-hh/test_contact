@@ -1,0 +1,32 @@
+# Laravel app (in src/)
+src/node_modules
+src/public/hot
+src/public/storage
+src/storage/*.key
+src/vendor
+src/.env
+src/.env.backup
+src/.phpunit.result.cache
+
+# IDE / Editor
+/.idea
+/.vscode
+
+# Logs & Cache
+src/storage/logs/
+src/storage/framework/cache/
+src/storage/framework/views/
+
+# docker mysql data
+docker/mysql/data/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Misc
+npm-debug.log
+yarn-error.log
+docker-compose.override.yml
+Homestead.json
+Homestead.yaml

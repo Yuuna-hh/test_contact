@@ -1,0 +1,51 @@
+body {
+    background: #f1ece6;
+}
+
+.auth__container {
+    width: 480px;
+    margin: 40px auto;
+}
+
+
+/* 白い背景の枠 */
+.auth__form {
+    background: #fff;
+    padding: 30px 25px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    border: #f1ece6 1px solid;
+}
+
+.auth__row {
+    margin-bottom: 18px;
+}
+
+.auth__label {
+    display: block;
+    margin-bottom: 6px;
+    color: #5a3e2b;
+    font-weight: bold;
+}
+
+.auth__input {
+    width: 100%;
+    padding: 10px 12px;
+    border: 1px solid #c9b8a7;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.auth__error {
+    color: #ff0000;
+    font-size: 12px;
+    margin-top: 6px;
+}
+
+.auth__success {
+    color: #5a3e2b;
+    background: #f4f4f4;
+    padding: 10px 15px;
+    border: 1px solid #c1b6ac;
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
