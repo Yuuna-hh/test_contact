@@ -76,8 +76,7 @@ SQLSTATE[HY000] [2002] Connection refused
 - 管理画面：http://localhost/admin
 - phpMyAdmin：http://localhost:8080
 
-/reset, /search, /export, /delete は
-画面表示を伴わない処理エンドポイントのため、画面として存在するのは上記のみです。
+/reset, /search, /export, /delete は画面表示を伴わない処理エンドポイントのため、画面として存在するのは上記のみです。
 
 ## 使用技術（実行環境）
 
@@ -93,3 +92,5 @@ SQLSTATE[HY000] [2002] Connection refused
 - https://estra-inc.notion.site/1263a94a2aab4e3ab81bad77db1cf186
 
 ## ER 図
+
+<img width="351" height="281" alt="test_contact_ER" src="https://github.com/user-attachments/assets/0f4c1be9-2806-43bb-b883-81e5bdfcbf8b" />
